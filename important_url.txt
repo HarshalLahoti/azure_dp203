@@ -1,0 +1,11 @@
+https://github.com/OBenner/data-engineering-interview-questions/blob/master/content/airflow.md
+https://www.itexams.com/exam/DP-203?
+
+To create dedicated sql pool
+https://learn.microsoft.com/en-us/azure/synapse-analytics/quickstart-create-sql-pool-portal
+
+To create data factory
+https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory
+
+storage account
+https://learn.microsoft.com/en-us/azure/storage/blobs/create-data-lake-storage-account
