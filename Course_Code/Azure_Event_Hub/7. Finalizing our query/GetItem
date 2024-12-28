@@ -1,0 +1,4 @@
+function main(flowlog,index) {
+	var Items=flowlog.split(',');
+	return Items[index];
+}
